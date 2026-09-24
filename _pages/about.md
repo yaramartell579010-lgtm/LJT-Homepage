@@ -1,1 +1,73 @@
----\npermalink: /\ntitle: "About Me"\nauthor_profile: true\nredirect_from: \n  - /about/\n  - /about.html\n---\n\nI am a first-year Ph.D. candidate at Hong Kong University of Science and Technology (HKUST), affiliated with the [HKUST NLP Group](https://hkustnlp.github.io/) supervised by [Professor Junxian He](https://jxhe.github.io/). Prior to this, I completed my B.Eng. at Shanghai Jiao Tong University (SJTU) in June 2024, where I was also advised by Professor Junxian He and was awarded the Zhiyuan Honor Scholarship.\n\nMy primary research focuses on Natural Language Processing and Machine Learning. Specifically, my research interests include:\n* **LLM Reasoning and Reinforcement Learning**\n* **Hallucination in Vision-Language Models (VLM)**\n* **LLM Truthfulness and Interpretability**\n\nExperience\n======\n* **MINIMAX** (February 2025 - Present)\n  * Research Intern\n* **Tencent WXG** (June 2024 - September 2024)\n  * Research Intern\n  * Advised by Zifei Shan\n* **Shanghai AI Lab** (June 2023 - December 2023)\n  * Research Intern\n  * Advised by Prof. Yu Cheng\n\nPublications\n======\n* **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond**  \n  **Junteng Liu**, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He  \n  *Arxiv*, 2025  \n\n* **On the Perception Bottleneck of VLMs for Chart Understanding**  \n  **Junteng Liu**, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He  \n  *Arxiv*, 2025  \n\n* **On the Universal Truthfulness Hyperplane Inside LLMs**  \n  **Junteng Liu**, Shiqi Chen, Yu Cheng, Junxian He  \n  *EMNLP*, 2024  \n\n* **In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation**  \n  Shiqi Chen, Miao Xiong, **Junteng Liu**, Zhengxuan Wu, Teng Xiao, Siyang Gao, Junxian He  \n  *ICML*, 2024  \n\n* **C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models**  \n  Yuzhen Huang, Yuzhuo Bai, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, **Junteng Liu**, Chuancheng Lv, Yikai Zhang, Jiayi Lei, Yao Fu, Maosong Sun, Junxian He  \n  *NeurIPS*, 2023  \n\n* **Composing Parameter-Efficient Modules with Arithmetic Operations**  \n  Jinghan Zhang, Shiqi Chen, **Junteng Liu**, Junxian He  \n  *NeurIPS*, 2023  \n\nEducation\n======\n* **Hong Kong University of Science and Technology** (2024 - Present)\n  * Ph.D. in Computer Science\n  * Supervised by Professor Junxian He\n* **Shanghai Jiao Tong University** (2020 - 2024)\n  * B.Eng., Graduated in June 2024\n  * Zhiyuan Honor Scholarship\n\nSkills\n======\n* **Research Fields & Topics**: Natural Language Processing, Machine Learning, LLM Reasoning, Reinforcement Learning, Hallucination in Vision-Language Models (VLM), LLM Truthfulness and Interpretability\n\nContact\n======\n* **Email**: [jliugi@connect.ust.hk](mailto:jliugi@connect.ust.hk)\n* **GitHub**: [Vicent0205](https://github.com/Vicent0205)\n* **Google Scholar**: [Profile](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate)\n* **X (Twitter)**: [@junteng88716710](https://twitter.com/junteng88716710)\n
+---
+permalink: /
+title: "About Me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+I am a first-year Ph.D. candidate at Hong Kong University of Science and Technology (HKUST), affiliated with the [HKUST NLP Group](https://hkustnlp.github.io/) supervised by [Professor Junxian He](https://jxhe.github.io/). Prior to this, I completed my B.Eng. at Shanghai Jiao Tong University (SJTU) in June 2024, where I was also advised by Professor Junxian He and was awarded the Zhiyuan Honor Scholarship.
+
+My primary research focuses on Natural Language Processing and Machine Learning. Specifically, my research interests include:
+* **LLM Reasoning and Reinforcement Learning**
+* **Hallucination in Vision-Language Models (VLM)**
+* **LLM Truthfulness and Interpretability**
+
+Academic Background
+======
+* **Ph.D. in Computer Science** (2024 - Present)
+  * Hong Kong University of Science and Technology (HKUST)
+  * Supervised by Professor Junxian He
+* **B.Eng.** (2020 - 2024)
+  * Shanghai Jiao Tong University (SJTU)
+  * Graduated in June 2024
+  * Zhiyuan Honor Scholarship
+
+Research Experience
+======
+* **MINIMAX** (February 2025 - Present)
+  * Research Intern
+* **Tencent WXG** (June 2024 - September 2024)
+  * Research Intern
+  * Advised by Zifei Shan
+* **Shanghai AI Lab** (June 2023 - December 2023)
+  * Research Intern
+  * Advised by Prof. Yu Cheng
+
+Publications
+======
+* **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond**  
+  **Junteng Liu**, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He  
+  *arXiv*, 2025  
+
+* **On the Perception Bottleneck of VLMs for Chart Understanding**  
+  **Junteng Liu**, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He  
+  *arXiv*, 2025  
+
+* **On the Universal Truthfulness Hyperplane Inside LLMs**  
+  **Junteng Liu**, Shiqi Chen, Yu Cheng, Junxian He  
+  *EMNLP*, 2024  
+
+* **In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation**  
+  Shiqi Chen, Miao Xiong, **Junteng Liu**, Zhengxuan Wu, Teng Xiao, Siyang Gao, Junxian He  
+  *ICML*, 2024  
+
+* **C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models**  
+  Yuzhen Huang, Yuzhuo Bai, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, **Junteng Liu**, Chuancheng Lv, Yikai Zhang, Jiayi Lei, Yao Fu, Maosong Sun, Junxian He  
+  *NeurIPS*, 2023  
+
+* **Composing Parameter-Efficient Modules with Arithmetic Operations**  
+  Jinghan Zhang, Shiqi Chen, **Junteng Liu**, Junxian He  
+  *NeurIPS*, 2023  
+
+Skills
+======
+* **Research Fields & Topics**: Natural Language Processing, Machine Learning, LLM Reasoning and Reinforcement Learning, Hallucination in Vision-Language Models (VLM), LLM Truthfulness and Interpretability
+
+Contact Information
+======
+* **Email**: [jliugi@connect.ust.hk](mailto:jliugi@connect.ust.hk)
+* **GitHub**: [Vicent0205](https://github.com/Vicent0205)
+* **Google Scholar**: [Profile](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate)
+* **X (Twitter)**: [@junteng88716710](https://twitter.com/junteng88716710)
