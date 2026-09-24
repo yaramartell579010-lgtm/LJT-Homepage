@@ -1,1 +1,49 @@
----\nlayout: archive\ntitle: "CV"\npermalink: /cv/\nauthor_profile: true\nredirect_from:\n  - /resume\n---\n\n{% include base_path %}\n\nEducation\n======\n* **Ph.D. in Computer Science** (2024 - Present)\n  * Hong Kong University of Science and Technology (HKUST)\n  * Supervised by Professor Junxian He\n* **B.Eng.** (2020 - 2024)\n  * Shanghai Jiao Tong University (SJTU)\n  * Graduated in June 2024\n  * Zhiyuan Honor Scholarship\n\nResearch Experience\n======\n* **MINIMAX** (February 2025 - Present)\n  * Research Intern\n* **Tencent WXG** (June 2024 - September 2024)\n  * Research Intern\n  * Advised by Zifei Shan\n* **Shanghai AI Lab** (June 2023 - December 2023)\n  * Research Intern\n  * Advised by Prof. Yu Cheng\n  \nSkills\n======\n* Natural Language Processing\n* Machine Learning\n* LLM Reasoning and Reinforcement Learning\n* Hallucination in Vision-Language Models (VLM)\n* LLM Truthfulness and Interpretability\n\nPublications\n======\n  <ul>{% for post in site.publications reversed %}\n    {% include archive-single-cv.html %}\n  {% endfor %}</ul>\n\nHonors and Awards\n======\n* Zhiyuan Honor Scholarship, Shanghai Jiao Tong University\n
+---
+layout: archive
+title: "CV"
+permalink: /cv/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
+{% include base_path %}
+
+Education
+======
+* **Ph.D. in Computer Science** (2024 - Present)
+  * Hong Kong University of Science and Technology (HKUST)
+  * Supervised by Professor Junxian He
+* **B.Eng.** (2020 - 2024)
+  * Shanghai Jiao Tong University (SJTU)
+  * Graduated in June 2024
+  * Zhiyuan Honor Scholarship
+
+Research Experience
+======
+* **MINIMAX** (February 2025 - Present)
+  * Research Intern
+* **Tencent WXG** (June 2024 - September 2024)
+  * Research Intern
+  * Advised by Zifei Shan
+* **Shanghai AI Lab** (June 2023 - December 2023)
+  * Research Intern
+  * Advised by Prof. Yu Cheng
+  
+Skills
+======
+* Natural Language Processing
+* Machine Learning
+* LLM Reasoning and Reinforcement Learning
+* Hallucination in Vision-Language Models (VLM)
+* LLM Truthfulness and Interpretability
+
+Publications
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+Honors and Awards
+======
+* Zhiyuan Honor Scholarship, Shanghai Jiao Tong University
